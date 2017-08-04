@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/java/common/APIResponse.java=UTF-8
+encoding//src/main/java/response/ClientResponse.java=UTF-8
+encoding//src/main/java/services/ClientElement.java=UTF-8
+encoding//src/main/java/services/ClientWS.java=UTF-8
+encoding//src/main/java/services/ClientWSService.java=UTF-8
+encoding//src/main/java/services/ClientWSServiceLocator.java=UTF-8
+encoding//src/main/java/services/ClientWSSoapBindingStub.java=UTF-8
+encoding//src/test/java=UTF-8
+encoding/<project>=UTF-8
